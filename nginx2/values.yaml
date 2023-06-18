@@ -1,0 +1,4 @@
+image: nginxdemos/hello
+port: 80
+type: live
+
